@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Human-Computer Interaction",
+    "Machine Learning",
+    "Natural Language Processing",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science (expected)"
+  institution = "Harvard University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
+  course = "MS in Media Arts and Science"
   institution = "Massachusetts Institute of Technology"
-  year = 2009
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Electrical and Computer Engineering"
+  institution = "Cornell University"
+  year = 2007
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Kenneth C. Arnold is finishing his PhD in Computer Science at Harvard University, working with Professor Krzysztof Gajos. He studies how people use intelligent systems for creative productivity, such as writing. 
