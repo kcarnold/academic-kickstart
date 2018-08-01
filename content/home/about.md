@@ -34,6 +34,4 @@ weight = 5
  
 +++
 
-# Biography
-
 Kenneth C. Arnold is finishing his PhD in Computer Science at Harvard University, working with Professor Krzysztof Gajos. He studies how people use intelligent systems for creative productivity, such as writing. 
