@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science (expected)"
   institution = "Harvard University"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "MS in Media Arts and Science"
@@ -34,4 +34,4 @@ weight = 5
  
 +++
 
-Kenneth C. Arnold is finishing his PhD in Computer Science at Harvard University, working with Professor Krzysztof Gajos. He studies how people use intelligent systems for creative productivity, such as writing. 
+Kenneth C. Arnold is finishing his PhD in Computer Science at Harvard University, working with Professor [Krzysztof Z. Gajos](http://www.eecs.harvard.edu/~kgajos/). He studies how people use intelligent systems for creative productivity, such as writing. 
