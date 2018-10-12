@@ -34,4 +34,5 @@ weight = 5
  
 +++
 
-Kenneth C. Arnold is finishing his PhD in Computer Science at Harvard University, working with Professor [Krzysztof Z. Gajos](http://www.eecs.harvard.edu/~kgajos/). He studies how people use intelligent systems for creative productivity, such as writing. 
+
+Kenneth C. Arnold is finishing his PhD in Computer Science at Harvard University, working with Professor [Krzysztof Z. Gajos](http://www.eecs.harvard.edu/~kgajos/). He studies how people use intelligent systems for creative productivity. His thesis research is on how predictive typing affects what people write and how.
