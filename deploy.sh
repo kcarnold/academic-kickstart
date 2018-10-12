@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cp ~/Dropbox/Ken/Docs/CV/kcarnold_cv.pdf static/files/kcarnold_cv.pdf
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
