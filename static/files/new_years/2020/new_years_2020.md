@@ -1,3 +1,9 @@
+% Arnolds New Years Letter 2020
+
+<style>
+body { max-width: 600px; margin: 0 auto; }
+</style>
+
 Happy New Decade!
 
 Highlights:
@@ -55,7 +61,7 @@ With love,
 
 Ken, Susan, Esther and Naomi
 
-![Naomi and Esther](Blankets - Thumbnail.jpg)
+![Naomi and Esther](Blankets - Thumbnail.jpg){ width=100% }
 
 more photos
 [here](https://www.dropbox.com/sh/fvf904ukclrx24o/AABhgJlNi8pvvHkFc805YNdea?dl=0).
